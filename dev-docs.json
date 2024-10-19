@@ -1,0 +1,9 @@
+{
+    "ai": {
+        "contextPrompt": "dev-docs/external-docs-template.md",
+        "contextDirs": [
+            "reflex/components/sonner"
+        ],
+        "docSubFolder": "rx-components"
+    }
+}
